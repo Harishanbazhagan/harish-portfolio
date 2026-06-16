@@ -1,2 +1,2 @@
 # harish-portfolio
-Harish Persional Portfolio
+Harish Personal Portfolio
